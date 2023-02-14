@@ -49,8 +49,7 @@ We are on [Discord](https://discord.gg/c7MnfGFGa6) and [Gitter](https://gitter.i
 See our [directory](DIRECTORY.md) for easier navigation and a better overview of the project.
 
 
-# DD2480 - Launch Interceptor Program
-#### A project by [4 KTH students](#developers-and-their-main-contributions) on  a hypothetical anti-ballistic missile system, that contains a function called DECIDE(). The project is written in Java and uses the build automation tool Gradle as well as JUnit as testing framework.
+# DD2480 - Assignment 3
 
 ## Git Commit Message Template
 ### `type(domain): Description #issuenumber`
