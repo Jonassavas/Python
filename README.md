@@ -47,3 +47,25 @@ We are on [Discord](https://discord.gg/c7MnfGFGa6) and [Gitter](https://gitter.i
 ## List of Algorithms
 
 See our [directory](DIRECTORY.md) for easier navigation and a better overview of the project.
+
+
+# DD2480 - Launch Interceptor Program
+#### A project by [4 KTH students](#developers-and-their-main-contributions) on  a hypothetical anti-ballistic missile system, that contains a function called DECIDE(). The project is written in Java and uses the build automation tool Gradle as well as JUnit as testing framework.
+
+## Git Commit Message Template
+### `type(domain): Description #issuenumber`
+### Types
+- `build`: Changes that affect the build system or external dependencies (example scopes: broccoli, npm).
+- `docs`: Documentation only changes.
+- `feat`: A new feature. Can of course also contain tests for the feature.
+- `fix`: Bug fixes. Can of course also contain tests for the feature.
+- `refactor`: A code change that neither fixes a bug nor adds a feature.
+- `revert`: Reverts a previous commit.
+- `style`: Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc).
+- `test`: Adding missing tests or correcting existing tests.
+
+### Example of domains
+- `LIC`
+- `PUM`
+- `FUV`
+- `Gradle`
