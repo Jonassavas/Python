@@ -52,7 +52,7 @@ See our [directory](DIRECTORY.md) for easier navigation and a better overview of
 # DD2480 - Assignment 3
 
 ## Git Commit Message Template
-### `type(domain): Description #issuenumber`
+### `type: Description #issuenumber`
 ### Types
 - `build`: Changes that affect the build system or external dependencies (example scopes: broccoli, npm).
 - `docs`: Documentation only changes.
@@ -63,8 +63,3 @@ See our [directory](DIRECTORY.md) for easier navigation and a better overview of
 - `style`: Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc).
 - `test`: Adding missing tests or correcting existing tests.
 
-### Example of domains
-- `LIC`
-- `PUM`
-- `FUV`
-- `Gradle`
